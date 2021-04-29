@@ -82,7 +82,8 @@
                             <li><a href="#">Company Partner</a></li>
                         </ul>
                     </li>
-                    <li><a href="#contact">Contact Us</a></li>
+		    <li><a href="#contact">Contact Us</a></li>
+		    <li><a href="#">Blog</a></li>
                     <li><a href="./auth/auth-login.html"><i class="icofont-ui-user"></i>Sign-In</i></a></li>
                 </ul>
             </nav>
